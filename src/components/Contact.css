@@ -1,0 +1,25 @@
+img{
+    border-radius: 50%;
+    width: 100px;
+}
+.kontakpp{
+    flex-basis: 20%;
+    flex-shrink: 0;
+    flex-grow: 1;
+    padding: 10px;
+    margin: auto;
+}
+.kontakDetail{
+    flex-grow: 4;
+    padding: 10px;
+}
+.listKontak{
+    display: flex;
+    flex-direction: row;
+    border-style: double;
+    background-color: #fff3b0;
+    margin-top: 5px;
+}
+.name{
+    font-weight: bold;
+}
